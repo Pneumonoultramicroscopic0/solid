@@ -2,6 +2,15 @@
 
 **this looks good**
 
-```php
-   echo "Hello World";
+```c
+   #include <stdio.h>
+
+   int main()
+   {
+      printf("hello, World!\n");
+      return 0;
+   }
 ```
+
+I learn c and shell
+You can see the exercises that I did
