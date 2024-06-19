@@ -14,3 +14,14 @@
 
 I learn c and shell
 You can see the exercises that I did
+
+**print printf**
+
+```c
+   #include <stdio.h>
+   
+   int main(){
+   helloworld! ("printf");
+   return 0;
+   }
+```
